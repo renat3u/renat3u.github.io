@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-06-21T16:07:34.000Z</updated>
+  <updated>2026-01-01T16:20:11.195Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解锁</title>
+    <link href="http://example.com/2026/01/01/%E8%A7%A3%E9%94%81/"/>
+    <id>http://example.com/2026/01/01/%E8%A7%A3%E9%94%81/</id>
+    <published>2026-01-01T15:01:53.000Z</published>
+    <updated>2026-01-01T16:20:11.195Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2025来得如此之快，又随风而去。上一秒好似在2024年12月31日备考期末，眨眼就来到了2026年1月1日。这一年发生了很多、经历了许多也成长了蛮多。如果要用一个词来概括2025，或许我会用</summary>
+        
+      
+    
+    
+    
+    <category term="似水流年" scheme="http://example.com/categories/%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>告别</title>
