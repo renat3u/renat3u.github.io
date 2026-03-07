@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-02-11T06:13:39.662Z</updated>
+  <updated>2026-03-07T06:41:44.126Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一天三人生</title>
+    <link href="http://example.com/2026/03/07/%E4%B8%80%E5%A4%A9%E4%B8%89%E4%BA%BA%E7%94%9F/"/>
+    <id>http://example.com/2026/03/07/%E4%B8%80%E5%A4%A9%E4%B8%89%E4%BA%BA%E7%94%9F/</id>
+    <published>2026-03-07T06:06:12.000Z</published>
+    <updated>2026-03-07T06:41:44.126Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近的几个月可谓是多姿多彩的。每日如饥似渴般读书，一本接一本。借着平台给出的字数，粗略计算之下，日均阅读量竟达30万字。由于叙事沉浸的体质，毫无疑问每天都花大量时间穿梭在虚拟与现实之中。忙点什么，看会书；看会书，再忙点什么，虚虚实实，真真假假，云里雾里。&lt;/p&gt;
+&lt;p&gt;而另</summary>
+        
+      
+    
+    
+    
+    <category term="随想录" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>叙事沉浸</title>
