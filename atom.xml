@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>404 Not Found</title>
+  <title>随笔</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://renatsu.ink/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://renatsu.ink/"/>
   <updated>2026-08-27T16:18:15.930Z</updated>
-  <id>http://example.com/</id>
+  <id>https://renatsu.ink/</id>
   
   <author>
     <name>玲奈</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>友人与失恋</title>
-    <link href="http://example.com/2026/08/28/%E5%8F%8B%E4%BA%BA%E4%B8%8E%E5%A4%B1%E6%81%8B/"/>
-    <id>http://example.com/2026/08/28/%E5%8F%8B%E4%BA%BA%E4%B8%8E%E5%A4%B1%E6%81%8B/</id>
+    <link href="https://renatsu.ink/2026/08/28/%E5%8F%8B%E4%BA%BA%E4%B8%8E%E5%A4%B1%E6%81%8B/"/>
+    <id>https://renatsu.ink/2026/08/28/%E5%8F%8B%E4%BA%BA%E4%B8%8E%E5%A4%B1%E6%81%8B/</id>
     <published>2026-08-27T16:17:37.000Z</published>
     <updated>2026-08-27T16:18:15.930Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="随想录" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    <category term="随想录" scheme="https://renatsu.ink/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
     
     
   </entry>
   
   <entry>
     <title>泥沼</title>
-    <link href="http://example.com/2026/07/01/%E6%B3%A5%E6%B2%BC/"/>
-    <id>http://example.com/2026/07/01/%E6%B3%A5%E6%B2%BC/</id>
+    <link href="https://renatsu.ink/2026/07/01/%E6%B3%A5%E6%B2%BC/"/>
+    <id>https://renatsu.ink/2026/07/01/%E6%B3%A5%E6%B2%BC/</id>
     <published>2026-07-01T03:43:43.000Z</published>
-    <updated>2026-07-01T04:28:52.517Z</updated>
+    <updated>2026-07-01T04:28:52.000Z</updated>
     
     
       
@@ -59,17 +59,17 @@
     
     
     
-    <category term="随想录" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    <category term="随想录" scheme="https://renatsu.ink/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
     
     
   </entry>
   
   <entry>
     <title>傲慢与偏见</title>
-    <link href="http://example.com/2026/05/03/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/"/>
-    <id>http://example.com/2026/05/03/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/</id>
+    <link href="https://renatsu.ink/2026/05/03/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/"/>
+    <id>https://renatsu.ink/2026/05/03/%E5%82%B2%E6%85%A2%E4%B8%8E%E5%81%8F%E8%A7%81/</id>
     <published>2026-05-02T20:10:59.000Z</published>
-    <updated>2026-05-02T20:12:10.592Z</updated>
+    <updated>2026-05-02T20:12:10.000Z</updated>
     
     
       
@@ -82,17 +82,17 @@
     
     
     
-    <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://renatsu.ink/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>我，许可</title>
-    <link href="http://example.com/2026/04/09/%E6%88%91%EF%BC%8C%E8%AE%B8%E5%8F%AF/"/>
-    <id>http://example.com/2026/04/09/%E6%88%91%EF%BC%8C%E8%AE%B8%E5%8F%AF/</id>
+    <link href="https://renatsu.ink/2026/04/09/%E6%88%91%EF%BC%8C%E8%AE%B8%E5%8F%AF/"/>
+    <id>https://renatsu.ink/2026/04/09/%E6%88%91%EF%BC%8C%E8%AE%B8%E5%8F%AF/</id>
     <published>2026-04-09T07:27:46.000Z</published>
-    <updated>2026-04-09T09:04:16.000Z</updated>
+    <updated>2026-04-09T09:04:16.730Z</updated>
     
     
       
@@ -105,17 +105,17 @@
     
     
     
-    <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://renatsu.ink/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>希望与未来</title>
-    <link href="http://example.com/2026/04/02/%E5%B8%8C%E6%9C%9B%E4%B8%8E%E6%9C%AA%E6%9D%A5/"/>
-    <id>http://example.com/2026/04/02/%E5%B8%8C%E6%9C%9B%E4%B8%8E%E6%9C%AA%E6%9D%A5/</id>
+    <link href="https://renatsu.ink/2026/04/02/%E5%B8%8C%E6%9C%9B%E4%B8%8E%E6%9C%AA%E6%9D%A5/"/>
+    <id>https://renatsu.ink/2026/04/02/%E5%B8%8C%E6%9C%9B%E4%B8%8E%E6%9C%AA%E6%9D%A5/</id>
     <published>2026-04-02T06:00:35.000Z</published>
-    <updated>2026-04-02T06:57:00.940Z</updated>
+    <updated>2026-04-02T06:57:00.000Z</updated>
     
     
       
@@ -128,17 +128,17 @@
     
     
     
-    <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://renatsu.ink/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>海街diary</title>
-    <link href="http://example.com/2026/03/29/%E6%B5%B7%E8%A1%97diary/"/>
-    <id>http://example.com/2026/03/29/%E6%B5%B7%E8%A1%97diary/</id>
+    <link href="https://renatsu.ink/2026/03/29/%E6%B5%B7%E8%A1%97diary/"/>
+    <id>https://renatsu.ink/2026/03/29/%E6%B5%B7%E8%A1%97diary/</id>
     <published>2026-03-29T05:24:36.000Z</published>
-    <updated>2026-03-29T06:40:38.477Z</updated>
+    <updated>2026-03-29T06:40:38.000Z</updated>
     
     
       
@@ -151,17 +151,17 @@
     
     
     
-    <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://renatsu.ink/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>为什么优秀的小说后劲很大</title>
-    <link href="http://example.com/2026/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%8E%E5%8A%B2%E5%BE%88%E5%A4%A7/"/>
-    <id>http://example.com/2026/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%8E%E5%8A%B2%E5%BE%88%E5%A4%A7/</id>
+    <link href="https://renatsu.ink/2026/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%8E%E5%8A%B2%E5%BE%88%E5%A4%A7/"/>
+    <id>https://renatsu.ink/2026/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E7%9A%84%E5%B0%8F%E8%AF%B4%E5%90%8E%E5%8A%B2%E5%BE%88%E5%A4%A7/</id>
     <published>2026-03-19T07:04:45.000Z</published>
-    <updated>2026-03-19T08:24:55.847Z</updated>
+    <updated>2026-03-19T08:24:55.000Z</updated>
     
     
       
@@ -174,17 +174,17 @@
     
     
     
-    <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://renatsu.ink/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>一天三人生</title>
-    <link href="http://example.com/2026/03/07/%E4%B8%80%E5%A4%A9%E4%B8%89%E4%BA%BA%E7%94%9F/"/>
-    <id>http://example.com/2026/03/07/%E4%B8%80%E5%A4%A9%E4%B8%89%E4%BA%BA%E7%94%9F/</id>
+    <link href="https://renatsu.ink/2026/03/07/%E4%B8%80%E5%A4%A9%E4%B8%89%E4%BA%BA%E7%94%9F/"/>
+    <id>https://renatsu.ink/2026/03/07/%E4%B8%80%E5%A4%A9%E4%B8%89%E4%BA%BA%E7%94%9F/</id>
     <published>2026-03-07T06:06:12.000Z</published>
-    <updated>2026-03-07T06:41:44.126Z</updated>
+    <updated>2026-03-07T06:41:44.000Z</updated>
     
     
       
@@ -198,17 +198,17 @@
     
     
     
-    <category term="随想录" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    <category term="随想录" scheme="https://renatsu.ink/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
     
     
   </entry>
   
   <entry>
     <title>叙事沉浸</title>
-    <link href="http://example.com/2026/02/10/%E5%8F%99%E4%BA%8B%E6%B2%89%E6%B5%B8/"/>
-    <id>http://example.com/2026/02/10/%E5%8F%99%E4%BA%8B%E6%B2%89%E6%B5%B8/</id>
+    <link href="https://renatsu.ink/2026/02/10/%E5%8F%99%E4%BA%8B%E6%B2%89%E6%B5%B8/"/>
+    <id>https://renatsu.ink/2026/02/10/%E5%8F%99%E4%BA%8B%E6%B2%89%E6%B5%B8/</id>
     <published>2026-02-10T06:02:15.000Z</published>
-    <updated>2026-02-11T06:13:39.662Z</updated>
+    <updated>2026-02-11T06:13:39.000Z</updated>
     
     
       
@@ -221,17 +221,17 @@
     
     
     
-    <category term="随想录" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    <category term="随想录" scheme="https://renatsu.ink/categories/%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
     
     
   </entry>
   
   <entry>
     <title>川渝行</title>
-    <link href="http://example.com/2026/01/21/%E5%B7%9D%E6%B8%9D%E8%A1%8C/"/>
-    <id>http://example.com/2026/01/21/%E5%B7%9D%E6%B8%9D%E8%A1%8C/</id>
+    <link href="https://renatsu.ink/2026/01/21/%E5%B7%9D%E6%B8%9D%E8%A1%8C/"/>
+    <id>https://renatsu.ink/2026/01/21/%E5%B7%9D%E6%B8%9D%E8%A1%8C/</id>
     <published>2026-01-21T06:07:34.000Z</published>
-    <updated>2026-01-22T12:09:26.715Z</updated>
+    <updated>2026-01-22T12:09:26.000Z</updated>
     
     
       
@@ -245,17 +245,17 @@
     
     
     
-    <category term="行旅录" scheme="http://example.com/categories/%E8%A1%8C%E6%97%85%E5%BD%95/"/>
+    <category term="行旅录" scheme="https://renatsu.ink/categories/%E8%A1%8C%E6%97%85%E5%BD%95/"/>
     
     
   </entry>
   
   <entry>
     <title>解锁</title>
-    <link href="http://example.com/2026/01/01/%E8%A7%A3%E9%94%81/"/>
-    <id>http://example.com/2026/01/01/%E8%A7%A3%E9%94%81/</id>
+    <link href="https://renatsu.ink/2026/01/01/%E8%A7%A3%E9%94%81/"/>
+    <id>https://renatsu.ink/2026/01/01/%E8%A7%A3%E9%94%81/</id>
     <published>2026-01-01T15:01:53.000Z</published>
-    <updated>2026-01-01T16:20:11.000Z</updated>
+    <updated>2026-01-01T16:20:11.195Z</updated>
     
     
       
@@ -268,15 +268,15 @@
     
     
     
-    <category term="似水流年" scheme="http://example.com/categories/%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4/"/>
+    <category term="似水流年" scheme="https://renatsu.ink/categories/%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>告别</title>
-    <link href="http://example.com/2025/06/22/%E5%91%8A%E5%88%AB/"/>
-    <id>http://example.com/2025/06/22/%E5%91%8A%E5%88%AB/</id>
+    <link href="https://renatsu.ink/2025/06/22/%E5%91%8A%E5%88%AB/"/>
+    <id>https://renatsu.ink/2025/06/22/%E5%91%8A%E5%88%AB/</id>
     <published>2025-06-21T16:05:00.000Z</published>
     <updated>2025-06-21T16:07:34.000Z</updated>
     
@@ -294,17 +294,17 @@
     
     
     
-    <category term="似水流年" scheme="http://example.com/categories/%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4/"/>
+    <category term="似水流年" scheme="https://renatsu.ink/categories/%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/05/17/hello-world/"/>
-    <id>http://example.com/2025/05/17/hello-world/</id>
-    <published>2025-05-17T07:06:17.359Z</published>
-    <updated>2025-05-16T09:49:25.000Z</updated>
+    <link href="https://renatsu.ink/2025/05/17/hello-world/"/>
+    <id>https://renatsu.ink/2025/05/17/hello-world/</id>
+    <published>2025-05-16T16:00:00.000Z</published>
+    <updated>2026-11-06T15:59:16.514Z</updated>
     
     
       
@@ -323,8 +323,8 @@
   
   <entry>
     <title>少女乐队与日常</title>
-    <link href="http://example.com/2025/05/16/%E5%B0%91%E5%A5%B3%E4%B9%90%E9%98%9F%E4%B8%8E%E6%97%A5%E5%B8%B8/"/>
-    <id>http://example.com/2025/05/16/%E5%B0%91%E5%A5%B3%E4%B9%90%E9%98%9F%E4%B8%8E%E6%97%A5%E5%B8%B8/</id>
+    <link href="https://renatsu.ink/2025/05/16/%E5%B0%91%E5%A5%B3%E4%B9%90%E9%98%9F%E4%B8%8E%E6%97%A5%E5%B8%B8/"/>
+    <id>https://renatsu.ink/2025/05/16/%E5%B0%91%E5%A5%B3%E4%B9%90%E9%98%9F%E4%B8%8E%E6%97%A5%E5%B8%B8/</id>
     <published>2025-05-16T09:02:12.000Z</published>
     <updated>2025-05-16T09:47:40.000Z</updated>
     
@@ -339,7 +339,7 @@
     
     
     
-    <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://renatsu.ink/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
   </entry>
