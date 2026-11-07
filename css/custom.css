@@ -177,6 +177,18 @@
   transform: translateY(0);
 }
 
+.navigation-restoring #main-container,
+.navigation-restoring #side-bar,
+.navigation-restoring .scroll-reveal-ready .scroll-reveal-item {
+  animation: none !important;
+  transition: none !important;
+}
+
+.navigation-restoring .scroll-reveal-ready .scroll-reveal-item {
+  opacity: 1;
+  transform: none;
+}
+
 .posts-loader {
   min-height: 24px;
   margin-top: 36px;
