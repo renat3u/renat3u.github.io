@@ -189,6 +189,22 @@
   transform: none;
 }
 
+.navigation-restore-item {
+  animation: navigation-restore-enter 560ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: calc(var(--navigation-restore-order) * 75ms);
+}
+
+@keyframes navigation-restore-enter {
+  from {
+    opacity: 0.45;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .posts-loader {
   min-height: 24px;
   margin-top: 36px;
@@ -288,6 +304,7 @@
   .fadeIn,
   .fadeInRight,
   .fadeInTop,
+  .navigation-restore-item,
   .hw-svg.hw-is-writing .hw-stroke {
     animation: none !important;
   }
